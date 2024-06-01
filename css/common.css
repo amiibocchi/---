@@ -1,0 +1,87 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	list-style-type: none;
+}
+
+.dad {
+	margin: 0 auto;
+	height: 1500px;
+	width: 1000px;
+	background-color: rgba(197, 222, 247, 1.0);
+}
+
+.dad12 {
+	margin: 0 auto;
+	height: 1500px;
+	width: 1000px;
+	background-color: rgba(175, 213, 249, 1.0);
+}
+
+.box3 {
+	text-align: center;
+	font-weight: 900;
+	margin: 70px;
+	padding: 45px;
+}
+
+.box4 {
+	float: left;
+	margin: 0px;
+	height: 617px;
+	width: 1000px;
+	bottom: 100px;
+	background-color: rgba(29, 154, 236, .0.5);
+}
+
+.cbox4 {
+	height: 245px;
+	width: 192px;
+	bottom: 100px;
+	background-color: rgb(255, 255, 255);
+}
+
+.cbox4big {
+	float: left;
+	margin: 20px;
+	padding: 29px;
+	height: 500px;
+	width: 400px;
+	bottom: 100px;
+	background-color: rgb(255, 255, 255);
+}
+
+.box5 {
+	float: right;
+	margin: 0px;
+	height: 1500px;
+	width: 1000px;
+	bottom: 100px;
+	background-color: rgba(29, 154, 236, .2);
+}
+
+.cbox5 {
+	float: left;
+	margin: 66px;
+	padding: 0px;
+	height: 400px;
+	width: 183px;
+	bottom: 100px;
+	background-color: rgba(175, 213, 249, .1);
+}
+
+.box6 {
+	height: 400px;
+	width: 1000px;
+	bottom: 100px;
+	background-color: rgb(255, 255, 255)
+}
+	
+.mys{
+	display: flex;
+	justify-content: space-around;
+	padding-bottom: 40px;
+}
